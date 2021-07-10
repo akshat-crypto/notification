@@ -1,4 +1,4 @@
-name: notification
+name: notification2
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -25,13 +25,14 @@ dependencies:
     sdk: flutter
 
 
-
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  firebase_core:
-  flutter_local_notifications:
-  firebase_messaging:
+  firebase_core: 
+  firebase_messaging: 
+  flutter_local_notifications: 
+  webview_flutter:
+  url_launcher:
 
 dev_dependencies:
   flutter_test:
